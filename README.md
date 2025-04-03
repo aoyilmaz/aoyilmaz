@@ -5,8 +5,7 @@ I'm an industrial engineer. I'am working as a factory manager in a manufacturing
 
 I write some articles about Machine Learning and Deep Learning on [Medium](https://aoyilmaz.medium.com/).
 
-- 🔭 I’m currently working on [Exaplast](http://exaplast.com/)
-- 🌱 I’m currently learning [Deep Learning](https://www.udemy.com/course/pytorch-for-deep-learning/)
+- 🔭 I’m currently working at [Exaplast](http://exaplast.com/)
 - 📫 How to reach me: [yilmazao@gmail.com](mailto:yilmazao@gmail.com)
 
 <!--
