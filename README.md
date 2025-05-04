@@ -1,7 +1,7 @@
 Hi there 👋 
 ------------------------------------
 
-I'm an industrial engineer. I'am working as a factory manager in a manufacturing company. I am also a data scientist student. I describe myself as a student as I have no experience as a professional data scientist.
+I'm an industrial engineer. I'am working as a factory manager in a manufacturing company. I am also a data analyst student. I describe myself as a student as I have no experience as a professional data analyst.
 
 I write some articles about Machine Learning and Deep Learning on [Medium](https://aoyilmaz.medium.com/).
 
